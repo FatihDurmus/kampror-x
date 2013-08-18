@@ -1,1 +1,1 @@
-Bu site yapım aşamasındadır 
+Bu site yapım aşamasındadır.
